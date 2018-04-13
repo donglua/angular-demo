@@ -9,6 +9,6 @@ export  class ServerComponent {
   serverStatus = 'offline';
 
   getServerStatus() {
-    return this.serverStatus
+    return this.serverStatus;
   }
 }
